@@ -1,2 +1,2 @@
 # Javascript
- Curos de JavaScrip
+ Curso de JavaScrip
